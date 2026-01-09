@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- HTML: tutorial page -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/tutorial.html</loc>
+  </url>
+
+  <!-- Binary: PDF -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/document.pdf</loc>
+  </url>
+
+  <!-- HTML: FAQ page -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/faq.html</loc>
+  </url>
+
+  <!-- Binary: image -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/image.jpg</loc>
+  </url>
+
+  <!-- HTML: main test page -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/page.html</loc>
+  </url>
+
+  <!-- Binary: ZIP -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/archive.zip</loc>
+  </url>
+
+  <!-- HTML: changelog page -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/changelog.html</loc>
+  </url>
+
+  <!-- HTML: guide page -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/guide.html</loc>
+  </url>
+
+  <!-- HTML: contact page -->
+  <url>
+    <loc>https://<your-username>.github.io/web-binary-test/contact.html</loc>
+  </url>
+
+</urlset>
