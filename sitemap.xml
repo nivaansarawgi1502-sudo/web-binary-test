@@ -9,6 +9,11 @@
   <url>
     <loc>https://nivaansarawgi1502-sudo.github.io/web-binary-test/missing-404-2.html</loc>
   </url>
+
+   <!-- Slow page: responds only after ~45 seconds -->
+  <url>
+    <loc>https://httpbin.org/delay/45</loc>
+  </url>
   
   <!-- HTML: tutorial page -->
   <url>
