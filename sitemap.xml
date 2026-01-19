@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Intentionally missing pages (404) -->
+  <url>
+    <loc>https://nivaansarawgi1502-sudo.github.io/web-binary-test/missing-404-1.html</loc>
+  </url>
+
+  <url>
+    <loc>https://nivaansarawgi1502-sudo.github.io/web-binary-test/missing-404-2.html</loc>
+  </url>
+  
   <!-- HTML: tutorial page -->
   <url>
     <loc>https://nivaansarawgi1502-sudo.github.io/web-binary-test/tutorial.html</loc>
