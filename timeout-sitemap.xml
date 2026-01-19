@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Fast page (200 OK) -->
+  <url>
+    <loc>https://nivaansarawgi1502-sudo.github.io/web-binary-test/page.html</loc>
+  </url>
+
+  <!-- Slow page: responds only after ~45 seconds -->
+  <url>
+    <loc>https://httpbin.org/delay/45</loc>
+  </url>
+
+</urlset>
