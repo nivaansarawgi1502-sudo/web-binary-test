@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- ... your existing URLs ... -->
+
+  <!-- Redirect test page (client-side redirect to example.org) -->
+  <url>
+    <loc>https://nivaansarawgi1502-sudo.github.io/web-binary-test/redirect-to-external.html</loc>
+  </url>
+
   <!-- Intentionally missing pages (404) -->
   <url>
     <loc>https://nivaansarawgi1502-sudo.github.io/web-binary-test/missing-404-1.html</loc>
