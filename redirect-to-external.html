@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Domain Escape Redirect Test</title>
+
+    <!-- Meta refresh redirect to external domain -->
+    <meta http-equiv="refresh" content="0; url=https://example.org/">
+
+    <!-- JavaScript redirect as a backup -->
+    <script>
+      window.location.href = "https://example.org/";
+    </script>
+  </head>
+  <body>
+    <h1>Redirect Test Page</h1>
+    <p>If you are seeing this content, the redirect did not fire yet.</p>
+  </body>
+</html>
